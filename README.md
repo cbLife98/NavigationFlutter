@@ -1,8 +1,5 @@
-# pizza_order
+# Navigation Flutter
 
-A new Flutter application.
+A new Flutter application that shows the most basic navigation from one page to another using an application.
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
